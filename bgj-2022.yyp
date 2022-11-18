@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "bgj-2022",
   "resources": [
+    {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":0,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":4,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":0,},
     {"id":{"name":"spr_helicopter","path":"sprites/spr_helicopter/spr_helicopter.yy",},"order":0,},
