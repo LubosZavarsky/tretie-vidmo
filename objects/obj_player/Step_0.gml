@@ -1,18 +1,21 @@
-/// @description Insert description here
-// You can write your code in this editor
 
-x = clamp(x, 0 + sprite_width/2, room_width - sprite_width/2)
+if (image_xscale == 1) {
+	x = clamp(x, 0 + sprite_width/2, room_width - sprite_width/2)
+}
+
+
+if (image_xscale == -1) {
+	x = clamp(x, 0 - sprite_width/2, room_width + sprite_width/2)
+}
+
 
 if(x >= room_width - sprite_width/2){
     speed = 0;
 }
 
 if(x <= 0 + sprite_width/2){
-    speed = 0;
+    speed = 0;	
 }
-
-
-
 
 if(keyboard_check(vk_right)){
     image_xscale = 1;
