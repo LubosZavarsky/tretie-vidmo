@@ -4,6 +4,7 @@
   "name": "bgj-2022",
   "resources": [
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":0,},
+    {"id":{"name":"spr_smile","path":"sprites/spr_smile/spr_smile.yy",},"order":0,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
