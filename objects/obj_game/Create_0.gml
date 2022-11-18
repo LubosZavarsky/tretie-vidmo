@@ -1,0 +1,4 @@
+// VARIABLES
+
+score = 0;
+
