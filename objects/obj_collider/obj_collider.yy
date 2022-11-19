@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_collider",
   "spriteId": {
-    "name": "spr_helicopter",
-    "path": "sprites/spr_helicopter/spr_helicopter.yy",
+    "name": "spr_invisible",
+    "path": "sprites/spr_invisible/spr_invisible.yy",
   },
   "solid": true,
   "visible": true,
   "managed": true,
-  "spriteMaskId": {
-    "name": "spr_helicopter",
-    "path": "sprites/spr_helicopter/spr_helicopter.yy",
-  },
+  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -27,10 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
