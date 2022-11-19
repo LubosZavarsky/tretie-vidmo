@@ -25,3 +25,4 @@ if(room == room_gameover){
 		//room_goto(room_level1)
 	}
 }
+
