@@ -1,4 +1,9 @@
 if (room == room_level1 || room == room_level2 || room = room_level3) {
+	
+	if (!instance_exists(obj_person)) {
+		room_goto_next();
+	}
+	
 	timer -= 1;
 
 	if (timer <= 0){
