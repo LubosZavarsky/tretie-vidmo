@@ -1,1 +1,3 @@
-instance_destroy();
+sprite_index = spr_explo;
+
+// instance_destroy();
