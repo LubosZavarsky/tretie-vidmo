@@ -22,7 +22,7 @@ if(x <= 0 + sprite_width/2){
 }
 
 if(y<= 0){
-    speed = 0;
+    motion_set(-direction, speed / 2)
 }
 
 
