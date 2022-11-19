@@ -21,6 +21,7 @@
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":2,},
     {"id":{"name":"spr_fog","path":"sprites/spr_fog/spr_fog.yy",},"order":5,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":1,},
+    {"id":{"name":"spr_newHelicopter","path":"sprites/spr_newHelicopter/spr_newHelicopter.yy",},"order":6,},
     {"id":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},"order":2,},
   ],
   "Options": [
