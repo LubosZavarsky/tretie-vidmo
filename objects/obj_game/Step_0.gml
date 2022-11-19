@@ -1,10 +1,12 @@
-// TIMER TEST
+if (room == room_level1) {
+	timer -= 1;
 
-timer -= 1;
-
-if (timer <= 0){
+	if (timer <= 0){
 		timer = timer = room_speed * 60;	
+	}
 }
+
+
 
 if(room == room_start){
 	if(keyboard_check_pressed(vk_enter)){
@@ -14,6 +16,7 @@ if(room == room_start){
 
 if(room == room_gameover){
 	if(keyboard_check_pressed(vk_enter)){
-		room_goto(room_level1)
+		game_restart(); // aby sa resetli score a zivoty!
+		//room_goto(room_level1)
 	}
 }

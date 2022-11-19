@@ -9,12 +9,17 @@
 
 switch(room){
 	case room_level1:
+	
+		// SCORE
 		draw_text(cx + 25, cy + 25,"SCORE: "+string(score));
 		
-		
+		// LIVES
 		for (i = 0; i < lives; i++) {
 			draw_sprite(spr_heart, 0, cx + 25 + 25*i, cy + 55)
 		}
+		
+		// TIMER
+		draw_text(cx + 25, cy + 85,"TIME LEFT: "+string(timer));
 		
 		break;	
 }
