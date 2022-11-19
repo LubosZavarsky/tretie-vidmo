@@ -1,6 +1,6 @@
 // FOLLOW HELICOPTER
 
-if(obj_player){
+if(instance_exists(obj_player)){
     x = obj_player.x;
     y = obj_player.y;
 }

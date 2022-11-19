@@ -1,6 +1,8 @@
 
 alarm[0] = 40;
 
+audio_play_sound(snd_rope, 3, false);
+
 
 // DRAW BACKUP
 
