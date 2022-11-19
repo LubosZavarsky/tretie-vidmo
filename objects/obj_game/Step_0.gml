@@ -1,4 +1,4 @@
-if (room == room_level1) {
+if (room == room_level1 || room == room_level2 || room = room_level3) {
 	timer -= 1;
 
 	if (timer <= 0){

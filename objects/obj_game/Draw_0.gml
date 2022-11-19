@@ -7,10 +7,8 @@
 	//draw_set_colour(c_red);
 	//draw_text(cx + cw/2.5, cy + 25, "Press R to restart");
 
-switch(room){
-	case room_level1:
-	
-		// SCORE
+if (room == room_level1 || room == room_level2 || room = room_level3) {
+	// SCORE
 		draw_text(cx + 25, cy + 25,"SCORE: "+string(score));
 		
 		// LIVES
@@ -20,6 +18,5 @@ switch(room){
 		
 		// TIMER
 		draw_text(cx + 25, cy + 85,"TIME LEFT: "+string(timer));
-		
-		break;	
+
 }

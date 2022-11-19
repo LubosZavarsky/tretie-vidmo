@@ -58,9 +58,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},},
     {"roomId":{"name":"room_level3","path":"rooms/room_level3/room_level3.yy",},},
     {"roomId":{"name":"room_level2","path":"rooms/room_level2/room_level2.yy",},},
-    {"roomId":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},},
     {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
     {"roomId":{"name":"room_win","path":"rooms/room_win/room_win.yy",},},
     {"roomId":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},},
@@ -87,10 +87,10 @@
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
   "TextureGroups": [
-    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.8.1.37",
+    "IDEVersion": "2022.9.1.51",
   },
 }
