@@ -68,11 +68,9 @@ if (keyboard_check_pressed(vk_space)) {
 					
 	if (!instance_exists(obj_rope)) {
 		// audio_play_sound(snd_beam, 1, false);
-		instance_create_layer(x,y,"Instances", obj_rope);	
-	}
 	
-
-
+		 instance_create_layer(x,y,"rope_layer", obj_rope);	
+	}
 };
 
 
