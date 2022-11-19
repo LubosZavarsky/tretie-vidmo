@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_person",
   "spriteId": {
-    "name": "spr_person",
-    "path": "sprites/spr_person/spr_person.yy",
+    "name": "spr_person1",
+    "path": "sprites/spr_person1/spr_person1.yy",
   },
   "solid": false,
   "visible": true,
