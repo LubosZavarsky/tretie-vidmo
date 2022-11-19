@@ -10,6 +10,7 @@
     {"id":{"name":"spr_bckg","path":"sprites/spr_bckg/spr_bckg.yy",},"order":1,},
     {"id":{"name":"spr_bg_mountain_front1","path":"sprites/spr_bg_mountain_front1/spr_bg_mountain_front1.yy",},"order":1,},
     {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},"order":3,},
+    {"id":{"name":"spr_bird","path":"sprites/spr_bird/spr_bird.yy",},"order":11,},
     {"id":{"name":"object_parallax","path":"objects/object_parallax/object_parallax.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":4,},
