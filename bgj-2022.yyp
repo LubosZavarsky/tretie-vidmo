@@ -4,6 +4,7 @@
   "name": "bgj-2022",
   "resources": [
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":0,},
+    {"id":{"name":"spr_bckg","path":"sprites/spr_bckg/spr_bckg.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":1,},
     {"id":{"name":"room_start","path":"rooms/room_start/room_start.yy",},"order":4,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":0,},
