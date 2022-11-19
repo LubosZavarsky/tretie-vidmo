@@ -14,3 +14,8 @@ if(room == room_start){
 	}
 }
 
+if(room == room_gameover){
+	if(keyboard_check_pressed(vk_enter)){
+		room_goto(room_level1)
+	}
+}

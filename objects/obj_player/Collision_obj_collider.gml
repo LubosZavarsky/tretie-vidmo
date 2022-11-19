@@ -1,3 +1,5 @@
 sprite_index = spr_explo;
 
-// instance_destroy();
+with(other){
+	alarm[0] = 30;
+}
