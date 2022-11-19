@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_player",
   "spriteId": {
-    "name": "spr_helicopter",
-    "path": "sprites/spr_helicopter/spr_helicopter.yy",
+    "name": "spr_newHelicopter",
+    "path": "sprites/spr_newHelicopter/spr_newHelicopter.yy",
   },
   "solid": true,
   "visible": true,
