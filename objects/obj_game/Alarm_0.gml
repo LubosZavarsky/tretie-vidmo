@@ -1,6 +1,8 @@
+lives--;
+
 if(lives <= 0){
 	room_goto(room_gameover)
-} else {
+} else {	
 	room_restart()
 }
 
