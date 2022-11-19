@@ -17,6 +17,7 @@
     {"id":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},"order":3,},
     {"id":{"name":"room_win","path":"rooms/room_win/room_win.yy",},"order":1,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":2,},
+    {"id":{"name":"spr_fog","path":"sprites/spr_fog/spr_fog.yy",},"order":5,},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":1,},
     {"id":{"name":"room_gameover","path":"rooms/room_gameover/room_gameover.yy",},"order":2,},
   ],
