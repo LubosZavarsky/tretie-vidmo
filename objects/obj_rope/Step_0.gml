@@ -1,7 +1,9 @@
 // FOLLOW HELICOPTER
-x = obj_player.x;
-y = obj_player.y;
 
+if(obj_player){
+    x = obj_player.x;
+    y = obj_player.y;
+}
 
 
 //var ex = instance_nearest(obj_player.x, obj_player.y, obj_collider).x;
