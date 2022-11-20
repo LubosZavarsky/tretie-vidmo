@@ -9,6 +9,10 @@ switch (room) {
 		//}		
 		break;
 		
+	case room_objectives:
+		//audio_stop_all();					
+		break;
+		
 	case room_controls:
 		//audio_stop_all();					
 		break;

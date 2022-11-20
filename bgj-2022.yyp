@@ -42,8 +42,10 @@
     {"id":{"name":"snd_hura","path":"sounds/snd_hura/snd_hura.yy",},"order":7,},
     {"id":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},"order":4,},
     {"id":{"name":"spr_rope","path":"sprites/spr_rope/spr_rope.yy",},"order":5,},
+    {"id":{"name":"room_objectives","path":"rooms/room_objectives/room_objectives.yy",},"order":11,},
     {"id":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},"order":3,},
     {"id":{"name":"spr_bg_mountain_front2","path":"sprites/spr_bg_mountain_front2/spr_bg_mountain_front2.yy",},"order":5,},
+    {"id":{"name":"spr_bg_objectives","path":"sprites/spr_bg_objectives/spr_bg_objectives.yy",},"order":13,},
     {"id":{"name":"spr_bg_mountain_far3","path":"sprites/spr_bg_mountain_far3/spr_bg_mountain_far3.yy",},"order":6,},
     {"id":{"name":"spr_bg_mountain_front3","path":"sprites/spr_bg_mountain_front3/spr_bg_mountain_front3.yy",},"order":7,},
     {"id":{"name":"snd_rope","path":"sounds/snd_rope/snd_rope.yy",},"order":3,},
@@ -91,6 +93,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"room_start","path":"rooms/room_start/room_start.yy",},},
+    {"roomId":{"name":"room_objectives","path":"rooms/room_objectives/room_objectives.yy",},},
     {"roomId":{"name":"room_controls","path":"rooms/room_controls/room_controls.yy",},},
     {"roomId":{"name":"room_between1","path":"rooms/room_between1/room_between1.yy",},},
     {"roomId":{"name":"room_level1","path":"rooms/room_level1/room_level1.yy",},},

@@ -15,7 +15,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_hura.wav",
-  "duration": 0.727143,
+  "duration": 0.727166,
   "parent": {
     "name": "sounds",
     "path": "folders/Sounds/sounds.yy",

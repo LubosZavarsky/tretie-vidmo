@@ -21,7 +21,7 @@ if(room == room_gameover){
 	}
 }
 
-if (room == room_start || room == room_between1 || room == room_between2 || room == room_between3 || room == room_controls){
+if (room == room_start || room == room_between1 || room == room_between2 || room == room_between3 || room == room_controls || room == room_objectives){
 	if(keyboard_check_pressed(vk_enter)){
 		
 		room_goto_next();
