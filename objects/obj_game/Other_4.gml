@@ -3,7 +3,7 @@
 
 switch (room) {
 	case room_start:
-		//audio_stop_all();	
+		audio_stop_all();	
 		//if (os_browser == browser_not_a_browser) {
 			audio_play_sound(msc_intro, 1, true);
 		//}		
@@ -43,8 +43,8 @@ switch (room) {
 		break;	
 	
 	case room_win:
-		//audio_stop_sound(snd_game);
-		//audio_play_sound(snd_finish, 1, true);
+		audio_stop_all();
+		audio_play_sound(snd_win, 1, true);
 		break;
 	
 	case room_gameover:
