@@ -1,5 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+
+audio_sound_gain(snd_hura, 10, 5000);
+audio_play_sound(snd_hura, 1, false);
 
 image_angle = irandom_range(-45, 45)
 

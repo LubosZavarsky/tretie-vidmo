@@ -18,7 +18,7 @@ switch (room) {
 		break;
 	
 	case room_level1:
-		audio_stop_all();
+		audio_stop_sound(msc_intro);
 		audio_play_sound(msc_level1, 1, true);
 		break;
 		

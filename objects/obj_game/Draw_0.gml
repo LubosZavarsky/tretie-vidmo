@@ -9,7 +9,7 @@
 
 if (room == room_level1 || room == room_level2 || room = room_level3) {
 	// TO BE SAVED
-		draw_text(cx + 25, cy + 25,"ZACHRANIT: "+ string(instance_number(obj_person)));
+		draw_text(cx + 25, cy + 25,"ZOSTAVA: "+ string(instance_number(obj_person)));
 		
 		// LIVES
 		for (i = 0; i < lives; i++) {

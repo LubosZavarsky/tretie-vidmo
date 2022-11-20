@@ -10,5 +10,5 @@ function __game_restart() {
   audio_stop_all();
   //raw_texture_flush(); 
     
-  room_goto(rm_start);
+  room_goto(room_start);
 }

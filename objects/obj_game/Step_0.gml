@@ -15,7 +15,8 @@ if(room == room_start){
 
 if(room == room_gameover){
 	if(keyboard_check_pressed(vk_enter)){
-		game_restart(); // aby sa resetli score a zivoty!
+		RESTART_ALL
+		//game_restart(); // aby sa resetli score a zivoty!
 		//room_goto(room_level1)
 	}
 }
