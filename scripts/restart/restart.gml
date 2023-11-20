@@ -1,4 +1,4 @@
-#macro RESTART_ALL __game_restart();
+#macro RESTART_ALL __game_restart()
 
 function __game_restart() {
   // This will destroy all instances. 
@@ -9,6 +9,8 @@ function __game_restart() {
 
   audio_stop_all();
   //raw_texture_flush(); 
+  
+  lives = 3;
     
   room_goto(room_start);
 }

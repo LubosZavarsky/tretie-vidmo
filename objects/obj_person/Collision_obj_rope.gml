@@ -1,5 +1,5 @@
-x = obj_player.x;
-vsp = -50;
+//x = obj_player.x;
+//vsp = -50;
 
 
 
